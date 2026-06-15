@@ -1,1 +1,0 @@
-# udon-komachi-voice
